@@ -169,7 +169,7 @@ ISC
 
 ## Acknowledgments
 
-- Built with [Google Agent Development Kit (ADK)](https://github.com/google/adk)
+- Built with [Google Agent Development Kit (ADK)](https://github.com/google/adk-js)
 - Powered by [Google Gemini](https://ai.google.dev/)
 
 ## Support
